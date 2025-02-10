@@ -64,25 +64,6 @@ Além dos projetos acadêmicos e de trabalho, continuo aprendendo novas ferramen
     </td>
   </tr>
 </table>
-
---- 
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=Dotzin&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
----
-
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
