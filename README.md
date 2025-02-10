@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Oi, eu sou o **Augusto Elias**, programador Full-Stack com 17 anos e sempre buscando aprender mais e me destacar na área de tecnologia. Estou no terceiro ano do curso técnico e do ensino médio na **ETEC** e atualmente trabalho na **ARP COMMERCE**, estou desenvolvendo meu TCC para o curso e criando automações para a empresa, principalmente na área de WebScraping, armazenando informação de produtos e criando novos anúncios em nossas plataformas de venda.
+Oi, eu sou **Augusto Elias**, programador Full-Stack com 17 anos e sempre buscando aprender mais e me destacar na área de tecnologia. Estou no terceiro ano do curso técnico (Desenvolvimento de Sistemas) e do ensino médio na **ETEC** e atualmente trabalho na **ARP COMMERCE**, estou desenvolvendo meu TCC para o curso e criando automações para a empresa, principalmente na área de WebScraping, armazenando informação de produtos e criando novos anúncios em nossas plataformas de venda.
 
 ## 🚀 Tecnologias que Eu Domino
 
