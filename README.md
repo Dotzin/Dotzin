@@ -2,7 +2,7 @@
 
 ## 👋 Sobre Mim
 Oi! Eu sou o **Augusto Elias**, programador Full-Stack de 17 anos, apaixonado por tecnologia e inovação.  
-Estou no 3º ano do curso técnico e ensino médio na **ETEC**, trabalho na **ARP COMMERCE**, desenvolvendo algumas automações**WebScraping** e gerenciamento de anúncios, atualmente estou trabalhando no meu TCC do técnico de **Desenvolvimento de Sistemas**
+Estou no 3º ano do curso técnico e ensino médio na **ETEC**, trabalho na empresa **ARP COMMERCE**, desenvolvendo algumas automações**WebScraping** e gerenciamento de anúncios, atualmente estou trabalhando no meu TCC do técnico de **Desenvolvimento de Sistemas**
 
 ---
 
@@ -24,7 +24,7 @@ Estou no 3º ano do curso técnico e ensino médio na **ETEC**, trabalho na **AR
 
 ## 📚 Projetos
 - **TCC**: Desenvolvendo soluções Full-Stack no meu projeto acadêmico.  
-- **ARP COMMERCE**: Automação e **WebScraping** para otimização de anúncios e produtos.  
+- **ARP COMMERCE**: Admnistração de anúncios em MarketPlaces e SEO, Automação e **WebScraping** para otimização de anúncios e produtos.  
 
 ---
 
